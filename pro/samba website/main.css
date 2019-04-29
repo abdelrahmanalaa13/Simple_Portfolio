@@ -1,0 +1,200 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+    direction: ltr;
+    text-align: center;
+}
+header{
+	width: 100%;
+	background: white;
+	position: fixed;
+	border-bottom: solid #69b9ff 1px;
+    overflow: hidden;
+}
+header .header-container{
+    border-color: blue;
+}
+a {
+	text-decoration: none;
+}
+.header-container{
+	margin: 20px auto;
+	width: 70%;
+	text-align: center;
+	padding-bottom: 20px;
+}
+.workshop-name{
+	float: left;
+	padding:10px 20px;
+	text-decoration: none;
+	color: #69b9ff;
+	font-size:30px;
+	font-weight: 300;
+	letter-spacing: 5px;
+    margin-bottom: 10px;
+
+}
+.top-nav{
+	float: right;
+}
+.top-nav ul li {
+	display: inline-block;
+	padding: 10px 20px;
+	letter-spacing: 3px;
+    margin-top: 10px;
+}
+.workshop-name:hover{
+    color: grey;
+    border-color: gray;
+}
+.top-nav ul li a:hover{
+    color: black;
+    border-color: black;
+}
+.top-nav ul li a {
+text-decoration:none;
+color: #2e9dff;
+}
+#hero-section {
+	padding-top: 80px;
+	background-image: url(SambaWorkshop1.png);
+	background-size: cover;
+	height: 600px;
+        overflow: hidden;
+}
+#hero-section h1 {
+	text-align: center;
+	font-size: 50px;
+	padding-bottom: 20px;
+	margin-top: 150px;
+	color: #FFF;
+}
+#hero-section h2 {
+	text-align:center;
+	font-size: 30px;
+	margin-top: 30px
+}
+.sub-nav {
+	text-align: center;
+	padding: 20px;
+	margin-top: 50px;
+}
+#btn1 {
+    border: 1px #3351f8 solid;
+	padding: 10px 30px;
+	margin: 10px;
+	color: #FFF;
+	background:#3351f8;
+
+
+}
+#btn1:hover {
+	color: red;
+	border-color: red;
+}
+#btn2 {
+	border: 1px #FFF solid;
+    padding: 10px 30px;
+    margin: 10px 50px;
+	color: #FFF;
+}
+#btn2:hover {
+	border-color: red;
+}
+#sessions h2{
+    text-align: center;
+    font-size: 30px;
+    margin: 30px auto;
+    overflow: hidden;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+
+
+
+    
+}
+#sessions h3{
+    text-align: center;
+    font-size: 20px;
+    text-transform: uppercase;
+    margin: 10px auto;
+    
+
+}
+#sessions .sessionsList .imgContainer{
+    background: #69b9ff;
+    border-radius: 50%;
+    width: 75px;
+    height: 75px;
+    overflow: hidden;
+
+}
+
+#sessions .sessionsList .imgContainer img{
+    width: 50px;
+    padding: 12.5px;
+}
+.sessionsList li{
+    width: 20%;
+    margin: 10px 20px;
+    height: 300px;
+    padding: 10px 50px; 
+    overflow: hidden;
+    display: inline-block;
+    border-style: solid;
+    border-width: 1px;
+    border-color: aquamarine;
+    
+}
+.sessionsList li h4{
+    text-align: center;
+    font-size:20px;
+    color: darkslategrey;
+    letter-spacing: 3px;
+}
+.sessionsList li p{
+    letter-spacing: 1px;
+    color:cornflowerblue
+}
+#about{
+    width: 100%;
+    height: 400px;
+    background-color:dodgerblue;
+    margin: 35px 0px 20px 0px ;
+    overflow: hidden;
+    color: aliceblue;
+    display: inline-block;
+
+}
+#about h2{
+    font-size: 30px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    margin: 20px auto;
+}
+#about p{
+    text-align: left;
+    margin-bottom: 5px;
+    margin: 10px;
+}
+.samba{
+    float: left;
+    width: 35%;
+    height: 100%;
+    margin-left: 50px;
+    
+}
+
+.engbreak{
+    float: right;
+    width: 35%;
+    height: 100%;
+    margin-right: 50px
+}
+footer p{
+    font-size: 13px;
+    letter-spacing: 2px;
+
+}
+
+
+

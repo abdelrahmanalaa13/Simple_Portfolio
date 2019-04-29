@@ -1,0 +1,10 @@
+body{
+	background: url(395414_357662067598986_110682495_n.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+      text-align: center;
+}
+h1{color: red}
+h3{color: blue}

@@ -1,0 +1,175 @@
+body{
+    background:#06090E;
+    direction: ltr;
+    height: 800px;
+}
+.contaner
+{
+    width:940px;
+    margin:20px auto;
+    background:#0B121A;
+}
+ul, ol{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+header{
+    min-height:150px;
+    background:#06090E;
+    overflow: hidden;
+}
+
+header .logo img
+{
+    height: 150px;
+    width:940px; 
+
+}
+header .nav{
+    
+    width:80%
+}
+header nav ul
+{
+    margin: 5px;
+    font-weight: bold;
+
+}
+header nav ul li
+{
+    display: inline-block;
+    padding: 10px;
+    border: 2px ;
+    border-radius: 25px;
+    background-size: 15px 10px;
+
+}
+header nav ul li a
+{
+     color: white;
+         text-decoration: none;
+
+}
+
+header input
+{
+    float: right;
+    margin-top: -40px;
+    height: 1.9em; 
+    background: #0b121a; 
+    border-color:#4f6884;
+    color: white;
+margin-right: 10px;
+}
+.contant{
+    background:#0B121A;
+    height:800px;
+    overflow: hidden;
+}
+.contant .sidebar{
+    float: right;
+    width: 25%;
+    margin-left: 1%;
+    height:800px;
+}
+.contant .sidebar .matrials{
+    width: 50%;
+    background:#FFF;
+    border: 1px  #CCC;
+    margin: 10px auto;
+    height: 600px;
+    padding: 10px 50px; 
+    background: #0D141C;
+    border-radius: 15px;
+        overflow: hidden;
+
+}
+.contant .sidebar .matrials .title{
+    padding: 5px 0px;
+    text-align: center;
+}
+.contant .sidebar .matrials .h3 .b{
+    color: #0ddddd;
+
+}
+.contant .sidebar .matrials .data ul li {
+border: 2px  #a1a1a1;
+    padding: 10px 40px; 
+    background: #243851;
+    width: 65px;
+    border-radius: 15px;
+    text-align: center;
+    margin-top: 10px;
+}
+.contant .sidebar .matrials .data ul li a{
+     color: white;
+         text-decoration: none;
+
+}
+
+.contant .ALL{
+width: 74%;
+height:800px;
+}
+.contant .ALL ul li {
+    margin-top: 60px;
+    border: 2px  #a1a1a1;
+    padding: 10px 40px; 
+    background: #049A99;
+    width: 65px;
+    border-radius: 15px;
+    text-align: center;
+    
+}
+.contant .ALL ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+
+.contant .prag{
+    margin-left: 60px;
+    margin-top: 20px;
+    color: white;
+    background: #0D141C;
+    width: 60%;
+    overflow: hidden;
+    line-height: 1.3em;
+
+}
+.contant .prag img {
+    width:80px;
+height:80px;
+border-radius: 40px 40px;
+padding: 10px;
+float: left;
+}
+.contant .prag h2{
+    display: inline-block;
+    padding: 10px;
+}
+.contant .prag span{
+    display: inline-block;
+    color: #EFE300;
+}
+.contant .prag h3{
+    color: #3C4147;
+    padding: 10px;
+}
+.contant .prag p{
+    padding: 10px;
+}
+footer{
+    text-align: center;
+}
+footer .info{
+    color: white;
+}
+footer .copyright{
+    font-weight: 5px;
+    color: #3C4147;
+    font-size: 0.8
+}
+
+

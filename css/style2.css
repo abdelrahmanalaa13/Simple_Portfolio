@@ -1,0 +1,118 @@
+*{
+    text-align: center;
+}
+#m .nav{
+    
+    width:80%;
+    float: right;
+    
+}
+#m nav ul
+{
+    font-weight: bold;
+    margin-top: 10px;
+
+}
+#m nav ul li
+{
+    display: inline-block;
+    padding: 10px;
+    border: 2px ;
+    border-radius: 25px;
+    background-size: 15px 10px;
+    background-color: darkgray;
+
+}
+#m nav ul li a
+{
+     color: white;
+         text-decoration: none;
+    color: black;
+
+}
+.copy {
+    padding: 20px;
+    color: #BBB;
+    text-align: center;
+}
+h1{   font-size: 3em;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+h2{
+    font-size: 2em;
+    line-height: 1.4em;
+    letter-spacing: 1px;
+}
+h3{
+    font-size: 1.5em;
+    line-height: 1.4em;
+    letter-spacing: 1px;
+}
+p{
+        font-size: 1.3em;
+    line-height: 1.4em;
+    letter-spacing: 1px;
+}
+#edu{
+    color: darkblue;
+}
+#html{color: coral;}
+#sharb {color: #690081;}
+
+#top2 p {
+    color: blue;
+    font-size: 1.3em;
+    
+}
+#top2 h3 {
+    color: darkgoldenrod;
+}
+#exp{color: blue;
+    font-size: 1.3em;}
+#contactDetails ul li a:hover { 
+    color: #cf8a05;}
+
+
+#call ul {
+	list-style-type: none;
+	font-size: 0.9em;
+	margin-top: 2px;
+}
+
+#call ul li {
+	margin-bottom: 3px;
+	color: #444;
+        display:inline-block;
+    margin: 10px;
+
+}
+
+#call ul li a, a[href^=tel] {
+	color: #444; 
+	text-decoration: none;
+	-webkit-transition: all .3s ease-in;
+	-moz-transition: all .3s ease-in;
+	-o-transition: all .3s ease-in;
+	-ms-transition: all .3s ease-in;
+	transition: all .3s ease-in;
+
+}
+
+#call ul li a:hover { 
+	color: #cf8a05;
+
+}
+#call img{
+    text-align: center;
+    height: 50px;
+    width: 50px;
+}
+#call ul #num img {
+    height: 70px;
+    width: 100px;
+}

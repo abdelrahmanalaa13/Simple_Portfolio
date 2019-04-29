@@ -1,0 +1,24 @@
+body{
+	background: url(12974533_1153280304703821_5797755128063108520_n.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+      text-align: center;
+
+}
+h2{
+	color: darkblue
+}
+h3{
+	color: red
+}
+h1{
+	color: darkgreen
+}
+h4{
+    color: purple
+}
+h5{
+	color: green
+}

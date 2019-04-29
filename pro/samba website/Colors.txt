@@ -1,0 +1,9 @@
+main theme color: #69b9ff 
+
+darker: #2e9dff
+
+darker darker: #0082f3
+
+very very light: #dcebf7
+
+dark grey: #6a859c
